@@ -1,2 +1,2 @@
 # hello-world
-This is my "hello world" repository for GitHub
+Hi everyone, just trying to understand how this all works, so doing the "hello world" tutorial.  
